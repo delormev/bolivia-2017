@@ -79,7 +79,12 @@ Today, 7AM start to get on a flight for Sucre. Everyone is feeling a bit better 
 
 We check-in at the hotel, where we leave Damien to rest for the afternoon. We head off for our quick tour of the city with the guide. We're a bit disappointed as today is a bank holiday here in Bolivia, so a lot of the places and museums we were supposed to visit as part of the tour are closed today.
 
-We visit the Plaza Pedro de Anzúrez, which oversees the city; the Cementerio General, where a lot of historical figures are buried (including --ADD EXAMPLES--), and walk through Parque Bolivar, named after Bolivia's first president, Simón Bolívar. 
+Sucre is the constitutional capital of Bolivia. It was the capital when Bolivia declared independence in 1825.  
+However, after a short civil war in 1898, the administrative and legislative branches of the Bolivian government were moved to La Paz, which is now Bolivia's *de facto* capital, while Sucre retains the judicial power.  
+The rivalry between the two city has stayed alive all these years. In fact, in 2007, the Constituent Assembly, a group set up by Bolviia's president Evo Morales to re-write Bolivia's constitution, was considering moving the executive seat of the government back to Sucre. This triggered protests both in La Paz and Sucre.  
+The new Constitution of Bolivia came into effect in 2009 after being approved in a referendum. It re-acknoledged Sucre as Bolivia's official capital, but also confirmed that the institutions will remain where they are (executive and legislative in La Paz, judiciary in Sucre).  
+
+We visit the Plaza Pedro de Anzúrez, which oversees the city; the Cementerio General, a beautiful cemetery in the heart of the city, and the final resting place for many famous figures, including ex-presidents; and we walk through Parque Bolivar, a sunny, happy park named after Bolivia's first president, Simón Bolívar. 
 
 ![Plaza Pedro de Anzúrez](http://imgur.com/JXnpbxT.jpg)
 
@@ -95,75 +100,84 @@ We also stop by the city's market, which is full of brightly coloured fruits and
 
 ![Cholita durmiendo](http://imgur.com/xv3EAxL.jpg)
 
-We rest a bit in the afternoon. Andrés teaches everyone a Bolivian card game he plays a lot with his grand-parents, similar to the game Rami. Ross, Hélène and I watch the newest episode of Sherlock (we love it!)  
+Late in the afternoon, Andrés teaches everyone a Bolivian card game he plays a lot with his grand-parents, similar to the game Rummi. Ross, Hélène and I watch the newest episode of Sherlock -- we love it!  
 
 We all head out for dinner and play more card games before calling it a night! 
-
-**Sucre - La Paz rivalry**
-
-Sucre is the constitutional capital of Bolivia. It was the capital when Bolivia declared independence in 1825. 
-However, after a short civil war in 1898, the administrative and legislative branches of the Bolivian government were moved to La Paz, which is now Bolivia's *de facto* capital, while Sucre retains the judicial power.  
-The rivalry between the two city has stayed alive all these years. In fact, in 2007, the Constituent Assembly, a group set up by Bolviia's president Evo Morales to re-write Bolivia's constitution, was considering moving the executive seat of the government back to La Paz. This triggered protests both in La Paz and Sucre.  
-The new Constitution of Bolivia came into effect in 2009 after being approved in a referendum. It re-acknoledged Sucre as Bolivia's official capital, but that the institutions will remain where they are (executive and legislative in La Paz, judiciary in Sucre). 
 
 ### Day 6 (Jan. 3rd): Potosí
 
 Our driver picks us up to take us to the city of Potosí. There, we meet our guide and driver for the day. 
 
-We visit the *Casa Nacional de Moneda* (National Mint of Bolivia) and visit the city with our guide. Potosí has a fascinating history (see below).
+We visit the *Casa Nacional de Moneda* (National Mint of Bolivia) and visit the city with our guide.  
+
+Potosí has a fascinating history: it went from being the economic capital of the world because of its rich silver mines to very poor, and suffered a lot in the hands of the douanier string colonial times. In those times, the coins made in Potosí were used in Bolivia, Spain, and the whole world. Ironically, Bolivia is now relying on Canada and France to make its coins and bills! 
 
 ![Potosí](http://imgur.com/pm4Tnnc.jpg)
 
 Even though this wasn't originally part of our plan, we insist on visiting of the mines, which adds about 4 hours to our already busy day. It's worth it in the end: we gear up with protective hats and clothes, buy gifts to leave for the miners, and follow our guide deep in the mine.  
 It turns out our guide worked in the mine from the age of 12. He tells us about the life of the miners, and their beliefs in Mother Earth (*Pacha Mama*) and the Devil (*el tío*). 
 
-Before leaving, we stop quickly by the Cathedral which oversees the whole city.
+Before leaving, we make one last quick stop at the Cathedral which oversees the whole city.  
 
-![View for the Cathedral in Potosí](http://imgur.com/gqUMZp1.jpg)
+![View for the Cathedral in Potosí](http://imgur.com/gqUMZp1.jpg)  
 
-In the evening, our guide then drives us to Uyuni. It's a long drive (4 hours), but the scenery is amazing. When we get there, we thank our guide and leave him a generous tip: he's by far the best guide we've had so far. 
-
-**Potosí: from economic capital of the world to very poor city**
-
-Potosí went from being the economic capital of the world because of its rich silver mines to very poor, and suffered a lot in the hands of the douanier string colonial times. In those times, the coins made in Potosí were used in Bolivia, Spain, and the whole world. Ironically, Bolivia is now relying on Canada and France to make its coins and bills! 
-
+Our next stop is Uyuni. It's a long drive (4 hours), but the scenery is amazing. When we get there, we thank our guide and leave him a generous tip: he's by far the best guide we've had so far.  
 
 ## Salar & South Bolivia
 
 ### Day 7 (Jan. 4th): Uyuni & Salar
 
-Our driver for the next 4 days picks us up from the hostal un Uyuni. He doesn't speak much. To be fair, these types of tours are usually for 5 people, plus a driver and guide. Because there are already 6 of us, we had to give up on the guide!
+Our driver for the next 4 days picks us up from the hostal un Uyuni. He doesn't speak much. To be fair, these types of tours are usually for 5 people, plus a driver and guide. But we had to give up on the guide, as there are already 6 of us!
 
-Our first stop: the train cemetery. {History + Not many trains running in Bolivia...}
+Our first stop is the Train Graveyard. As one of the main cities in southwest Bolivia, Uyuni is and has always been an important transport hub. In the past, Uyuni was also an important distribution hub, for carrying the various minerals which Bolivia is rich of (such as gold, lead, silver) to the ports on the Pacific coast. The Train Graveyard is the result of a failed rail construction project from the 1890s.
 
-After a quick stop at the very touristy market to buy some souvenirs, we head in the Salar. It is really beautiful, and despite there being a lot of other tourists at the different stops, most of the time, it feels like we are driving alone in a beautiful, giant, empty desert. 
+![The Train Greveyard](http://imgur.com/kck2M21.jpg)
+![The Train Greveyard](http://imgur.com/RYg5BcH.jpg)
+![The Train Greveyard](http://imgur.com/1bADMqV.jpg)
 
-We stop and have lunch at Isla incahuasi. This time we have to overcome our fear of "unsafe food": the guide cooked and brought lunch for us, and it's the only thing we're going to get until tonight.  
-Isla incahuasi is a strange, rock island in the middle of the desert, covered in cacti. It is also the only bit of {relief} in the otherwise very flat Salar: we hike up and down the island and take some nice pictures.
+After a quick stop at the very touristy market to buy some souvenirs, we head in the *Salar*.  
+This salt flat, which spreads across 11,000km^2, is the result of a prehistoric lake going dry.  
+Despite being a very popular tourist attraction, the desert is so big that it feels as if we are alone, in the middle of nowhere. 
 
-After stopping at various points of interest in the Salar in the afternoon, we head to the very special hotel we chose for that night: the Palacio de Sal hotel. Most of the hotel was built using salt from the Salar: the walls, most of the furniture, etc. 
+![El Salar](http://imgur.com/z8AuTy3.jpg)
+![El Salar](http://imgur.com/5VlZFXt.jpg)
+![El Salar](http://imgur.com/hbadGSv.jpg)
+![Our little group at El Salar](http://imgur.com/YdG4Ep4.jpg)
 
-Great buffet. 
-Pool & Poker. 
+We stop to have lunch at *Isla Incahuasi*. This time, we have to overcome our fear of "unsafe food": the guide cooked and brought lunch for us, and it's the only food we're going to get until tonight.  
+*Isla incahuasi* is a strange, rock island in the middle of the desert, covered in cacti. It is also the only bit of relief in the otherwise very flat Salar: we hike up and down the island to enjoy the view from the higher ground.
+
+![Isla Incahuasi and the Salar](http://imgur.com/Zz97dcX.jpg)
+![More interesting things to do!](http://imgur.com/XxknYFn.jpg)
+
+After stopping at various points of interest in the Salar in the afternoon, we head to the very special hotel we chose for that night: the Palacio de Sal hotel. The walls, roofs and most of the furniture of the hotel was built using salt from the Salar. 
+
+![El Salar](http://imgur.com/XEKffZY.jpg)
+![El Salar](http://imgur.com/LvOOp3p.jpg)
 
 ### Day 8 (Jan. 5th): Desertios & Lagunas
 
 A bit of a rough start!  
-No one in the group sleeps well that night. Our room is really warm when we first go to bed, and really cold when we wake up. There's a big storm in the middle of the night which also does not help.  
-We check out at 7:30AM. Because of the storm, the internet and part of the power grid went down, which means that we cannot pay the hotel by card like we had planned. They are not happy about it, but in the end they have to agree that we'll "pay later".  
-Finally, our driver picks us up and we swing by the nearest town to buy some water bottles and fix something on the car. 
+No one in the group sleeps well that night: there was a big storm in the middle of the night, and the temperature went from very warm to very cold overnight.  
+We check out at 7:30AM. Because of the storm, the internet and part of the power grid went down, which means that we cannot pay the hotel by card like we had planned. They are not happy about it, but we need to go, and in the end they have to agree that we'll find a way to pay them later.  
 
-Muddy road, we have to drive slowly and be careful. 
+It has rained quite a bit during the night, so the road is muddy, and our driver has to drive carefully. 
 
-San Cristobal city (nothing there)
-Valle de Rocas
-Desierto del siloli? 
-Laguna evianda, laguna Charcon 
-4700m highest altitude
-Eco hotel, all profit goes to community.
-Amazing 180° view from dining room. 
+Even though we spend most of the day in the car, we see beautiful scenery on the way. We stop by the *Valle de rocas* (Valley of Rocks), and a few lakes (*Laguna Evianda*, *Laguna Charcon*), home to hundreds of flamingos.
 
-### Day 9 (Jan. 6th): Reserve naturelle
+![Valle de rocas](http://imgur.com/BwVPJ2u.jpg)
+![Valle de rocas](http://imgur.com/7UlLcKS.jpg)
+![Pink flamingos](http://imgur.com/ZFfywTQ.jpg)
+
+We finally reach *Tayka del Desierto*, our accomodation for the night. At 4700m above sea level, this  eco-lodge, powered by solar power, redistributes all profits back to the community.  
+
+Once again, we are are miles away from any city, and it shows: the landscape around us is breathtaking. The colours are incredible: tuft of bright orange grass sprout up all over the dark red ground, and the luminous light grey skies make the distant mountains pop out even more. 
+
+![View from the dining room at Tayka del Desierto](http://imgur.com/sQAu2xy.jpg)
+
+Despite the headache caused by the altitude, this is my favourite part of the trip. We enjoy a delicious dinner, surrounded by this almost Mars-like view... 
+
+### Day 9 (Jan. 6th): Natural reserve
 
 4AM start with bad headache due to altitude. It's super dark outside. Driver gets lost trying to find out first stop, el árbol de piedra. He doesn't have a map or GPS. We asked a passing car for directions. 
 
