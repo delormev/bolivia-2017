@@ -52,9 +52,9 @@ img {
 	margin: 20px auto;
 }
 
-.parallax {
+.parallax-window {
 	/* Full height */
-	height: 400px; 
+	min-height: 400px; 
 
 	/* Create the parallax scrolling effect */
 	background-attachment: fixed;

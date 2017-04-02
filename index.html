@@ -9,6 +9,10 @@
   <meta name="author" content="delormev">
 
   <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="css/simpleLightbox.min.css">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <script src="./js/simpleLightbox.min.js"></script>
 
   <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
@@ -20,7 +24,7 @@
 		<h1>Travel Diaries: Bolivia</h1>
 		For my first trip to South America, I'm off to Bolivia with Andrés and a group of friends. We'll attend Marianna's wedding, and travel in the country for a couple of weeks.
 	</div>
-	<div class="parallax" id="header1"></div>
+	<div class="parallax-window" id="header1"></div>
 	<div class='text'>
 		<h2><a id="Part_1__Landing_in_Bolivia_2"></a>Part 1 - Landing in Bolivia</h2>
 		<h3><a id="Day_1_Dec_28th_11400km_4"></a>Day 1 (Dec. 28th): 11,400km</h3>
@@ -47,13 +51,21 @@
 		<p>It’s day #2 of taking it easy. We chill at the swimming pool and jacuzzi at the hotel, before heading out to <a href="https://goo.gl/maps/DgN9PMcDF6w">Paroquia del Monticulo</a>, the church where Mariana and Alejandro’s wedding is taking place.</p>
 		<p>The wedding is what you’d expect from a Christian wedding ceremony, in terms of texts and ritual. But it is also a beautiful, disorganised show of love and unity from the family and friends of the couple. In South America, both the nuclear and extended families feels much closer and tight-knit than in Europe.<br>
 		After the ceremony, we congratulate the newly-wed couple and their families, and head back to the hotel using <a href="https://en.wikipedia.org/wiki/Mi_Telef%C3%A9rico">Mi Teleférico</a>.</p>
-		<p><img src="http://imgur.com/1rCWw3k.jpg" alt="La Paz, as seen from Paroquia del Monticulo"></p>
+
+		<div class='gallery'>
+			<a href="http://imgur.com/1rCWw3k.jpg" title="La Paz, as seen from Paroquia del Monticulo"><img src="http://imgur.com/1rCWw3k.jpg" alt="La Paz, as seen from Paroquia del Monticulo"></a>
+		</div>
+
 		<p>Mi Teleférico is La Paz’ cable car system. Running since 2014, it consists of four lines spreading over roughly 15km. On top of being a very efficient way of traveling across the city, the transport system offers a great view of the capital and the surrounding mountains.</p>
 		<p>Finally, we head off to the beautiful place Marianna and Alej chose to celebrate their wedding with friends: we enjoy a nice dinner, good company, and have a good time on the dance floor. I’m a bit tired and I have a slight headache, so I stay away from booze (especially since it’s mostly rhum and whiskey, and I like neither!)</p>
 		<h3><a id="Day_4_Dec_31th_Feliz_ao_47"></a>Day 4 (Dec. 31th): ¡Feliz año!</h3>
 		<p>Today, we head out with Andres’ cousin Claudia, her boyfriend Youssef and the rest of our crew to Valle de la Luna. It’s a beautiful natural park with very original rock formations.</p>
-		<p><img src="http://imgur.com/nqI3nQ2.jpg" alt="Valle de la Luna - Rock formations"></p>
-		<p><img src="http://imgur.com/r9z8E31.jpg" alt="Valle de la Luna - Landscape"></p>
+
+		<div class='gallery'>
+			<a href="http://imgur.com/nqI3nQ2.jpg" title="Valle de la Luna - Rock formations"><img src="http://imgur.com/nqI3nQ2.jpg" alt="Valle de la Luna - Rock formations"></a>
+			<a href="http://imgur.com/r9z8E31.jpg" title="Valle de la Luna - Landscape"><img src="http://imgur.com/r9z8E31.jpg" alt="Valle de la Luna - Landscape"></a>
+		</div>
+
 		<p>We spend New Year’s Eve with Andres’ extended family, in his grand-parents house, where we are fed picana (a Bolivian soup with various meats and vegetables) and paella. The highlights of the evening include people running up and down the stairs with suitcases (see below), and lighting a bunch of fireworks in the garden, which everyone seems to be doing tonight in Bolivia!</p>
 		<p>Bolivia has its own set of traditions for New Year’s Eve, which all kick off at midnight:</p>
 		<p><ul>
@@ -69,9 +81,12 @@
 		<p>We rest most of the day, and pack our bags for the 8-day tour that starts the next day… We’ll be back in La Paz mid-way through the tour, so we leave what we won’t need with Andrés’ family.</p>
 
 	</div>
-	<div class="parallax" id="header2"></div>
+	<div class="parallax-window" id="header2"></div>
 	<div class='text'>
 		This is just a test.
 	</div>
+	  <script>
+	  	$('.gallery a').simpleLightbox();
+	  </script>
 </body>
 </html>

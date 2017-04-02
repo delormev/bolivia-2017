@@ -179,7 +179,9 @@ Despite the headache caused by the altitude, this is my favourite part of the tr
 
 ### Day 9 (Jan. 6th): Natural reserve
 
-4AM start with bad headache due to altitude. It's super dark outside. Driver gets lost trying to find out first stop, el árbol de piedra. He doesn't have a map or GPS. We asked a passing car for directions. 
+4AM start with bad headache due to altitude. It's still night outside.  
+
+Driver gets lost trying to find out first stop, el árbol de piedra. He doesn't have a map or GPS. We asked a passing car for directions. 
 
 After el árbol de piedra, we stop at the beautiful ... lake and have breakfast nearby. 
 
