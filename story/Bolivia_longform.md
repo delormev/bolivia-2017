@@ -173,7 +173,7 @@ We finally reach *Tayka del Desierto*, our accomodation for the night. At 4700m 
 
 Once again, we are are miles away from any city, and it shows: the landscape around us is breathtaking. The colours are incredible: tuft of bright orange grass sprout up all over the dark red ground, and the luminous light grey skies make the distant mountains pop out even more. 
 
-![View from the dining room at Tayka del Desierto](http://imgur.com/sQAu2xy.jpg)
+![View from the dining room at Tayka del Desierto](http://imgur.com/sJExToo.jpg)
 
 Despite the headache caused by the altitude, this is my favourite part of the trip. We enjoy a delicious dinner, surrounded by this almost Mars-like view... 
 
