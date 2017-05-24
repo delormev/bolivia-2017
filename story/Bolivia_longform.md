@@ -179,40 +179,39 @@ Despite the headache caused by the altitude, this is my favourite part of the tr
 
 ### Day 9 (Jan. 6th): Natural reserve
 
-4AM start with bad headache due to altitude. It's still night outside.  
+The plan for today is, basically, a lot of driving: we're driving South, to see the beautiful landscapes from the Eduardo Avaroa National Reserve, then North, back to Uyuni, where we'll be flying back to La Paz in the evening. 
 
-Driver gets lost trying to find out first stop, el árbol de piedra. He doesn't have a map or GPS. We asked a passing car for directions. 
+My headache from yesterday is still very much alive, so the 4AM start time is extra painful. It's still night outside.  
+Our driver gets lost trying to find out first stop, el árbol de piedra. He doesn't have a map or GPS. When one of us manages to pull up a map of our current position on his smartphone, we think we're saved. But it turns out our driver doesn't know how to read a map: he's used to navigating using the landmarks around him. Unfortunately, it is still dark and he doesn't recognise the mountains around us... We are lucky enough to cross paths with another car, so we ask them for directions. Soon after, the sun rises and we understand why our driver was confused: the dark shapes around us were not mountains but thick clouds, slowly floating around us. 
 
-After el árbol de piedra, we stop at the beautiful ... lake and have breakfast nearby. 
+*El arbol de piedra* is as beautiful as advertised, and it is another one of my favourite sights from the trip. The tree-shaped stone, part of an isolated rock formation in the middle of the Siloli desert, was created by the strong winds blowing there: the sand they are carrying is slowly eroding the stone and giving it this original shape. 
 
-Geysers (4950m over sea level). 
+![El arbol de piedra](http://imgur.com/M1SbeUw.jpg)
 
-Cure thermale
+We keep driving South, stopping to enjoy the sights of *Laguna Colorada* (the *Coloured Lake*), the Geysers of Sol de Mañana (just short of 5000km above sea level), all the way to the *Lagune Verde* and *Laguna Blanca* (the *Green* and *White Lakes*), right at the border between Bolivia and Chile. From there, you can also see Argentina, which is only 40 kilometers away. 
 
-Lago Verde. 
+The return drive to Uyuni is more stressful: despite our driver telling us "not to worry" a few times today, it looks like we will barely make it back to Uyuni in time for our flight back to La Paz.  
 
-Despite our driver telling us "not to worry" a few times today, it doesn't look like we'll have a lot of time to make it back in time for our flight back to La Paz, from Uyuni. We head out and even decide to skip lunch to make sure we'll be there early. Unfortunately, it turns out the Dakar race is taking place on the only road that leads to Uyuni from the South of Bolivia.  
-It doesn't look like we'll make our flight tonight: tens of cars and buses full of tourists are stuck with us, and we see a few trucks from the race drive by us.  
-If we miss the flight, things would become rather complicated: we have a fairly expensive hotel booked for tonight in La Paz, a bus booked tomorrow at 6AM, a hotel near Lake Titicaca for tomorrow evening, etc.  
+Unfortunately, it turns out that the only road leading back to Uyuni from where we are is closed because of the Dakar Rally. We are stuck at a police roadblock alongside dozens of cars and buses full of tourists, with no other choice but to watch the Dakar trucks drive by. 
 
-We are a bit disappointed by the lack of organisation and foresight of the travel agency for that part of the trip: the driver got lost thing morning so we lost about 1 hour, the passenger window broke and got stuck half open (which got really  inconvenient when it started raining and when we drove through a sandstorm), and finally, we're surprised the travel agency we used didn't account for the Dakar when they planned the trip for us.  
+Despite our flight being delayed, we end up missing it by just a few minutes. This is really inconvenient, because we have a fairly expensive hotel booked for tonight in La Paz, a bus booked tomorrow at 6AM, a hotel near Lake Titicaca for tomorrow evening, etc.  
 
-Luckily for me and the rest of the group, Andrés spends a lot of energy calling the travel agency and hotels. He manages to arrange everything so that we don't miss out on anything, and even convinces the hotel we had booked for the night in La Paz to cancel our reservation free of charge. 
-
-We sleep in a hostal in Uyuni instead, after having booked our replacement flight to La Paz for 9:30AM the next day.
+Luckily for me and the rest of the group, Andrés spends a lot of energy sorting things out with our travel agency, who hadn't warned us about the race, and our hotel in La Paz. 
+We sleep in a hostel in Uyuni instead, after having booked our replacement flight to La Paz for 9:30AM the next day.
 
 ## Lake Titicaca 
 
 ### Day 10 (Jan. 7th): Copacabana
 
-9:30AM flight to La Paz, driver from the travel agency is waiting for us and driving us to Copacabana, a touristy city on lake Titicaca. 
+This time, we make it onto our 9:30AM flight to La Paz! A driver from the travel agency is waiting for us and drives us to Copacabana, a touristy city on lake Titicaca. 
 
-Hotel Rosario, really nice rooms and amazing view on the garden and the lake. 
+We had lunch at a restaurant called *Pan America's Picnic Basket*. The pizzeria is run by a lovely American couple from Chicago, Deb and Jeff. Originally in Bolivia doing volunteer work for 6 months, they fell in love with the place and opened their restaurant there. Jeff gives us some advice on what to do next in the city, and tell us about how happy he and Deb in Copacabana:
+> "It's the land of the dreams, just like the US is supposed to be. In the US it would be really hard to open a restaurant, because of the upfront money we'd need, and all the regulations. Here it was easy."
 
-Pan America's Picnic Basket... Pizza place created by a couple of Americans from Chicago, who were initially here for a 6 month voluntary work, stayed here and love it here. 
-"It's the land of the dreams, just like the US is supposed to be. In the US it would be really hard to open a restaurant, because of the upfront money we'd need and all the regulations. Here it was easy."
+Following Jeff's advice, we visit of the city's basilic, Basilica of Our Lady of Copacabana. 
+https://en.wikipedia.org/wiki/Virgen_de_Copacabana
 
-Visit of the cathedral.
+Hotel Rosario, really nice rooms and amazing view on the garden and the lake.
 
 Starts raining in the afternoon so we chill at the hotel and get a good night's sleep.
 
