@@ -203,17 +203,17 @@ We sleep in a hostel in Uyuni instead, after having booked our replacement fligh
 
 ### Day 10 (Jan. 7th): Copacabana
 
-This time, we make it onto our 9:30AM flight to La Paz! A driver from the travel agency is waiting for us and drives us to Copacabana, a touristy city on lake Titicaca. 
+This time, we make it onto our 9:30AM flight to La Paz! A driver from the travel agency is waiting for us and drives us to Copacabana, a touristic city on lake Titicaca. 
 
-We had lunch at a restaurant called *Pan America's Picnic Basket*. The pizzeria is run by a lovely American couple from Chicago, Deb and Jeff. Originally in Bolivia doing volunteer work for 6 months, they fell in love with the place and opened their restaurant there. Jeff gives us some advice on what to do next in the city, and tell us about how happy he and Deb in Copacabana:
+In the city, we meet the owners of a small restaurant, *Pan America's Picnic Basket*. Deb and Jeff, a lovely American couple from Chicago, originally came to Bolivia doing volunteer work for a few months. But they soon fell in love with the place, and opened their pizzeria there. Jeff gives us some advice on what to do next in the city, and tell us about how happy he and Deb in Copacabana:
 > "It's the land of the dreams, just like the US is supposed to be. In the US it would be really hard to open a restaurant, because of the upfront money we'd need, and all the regulations. Here it was easy."
 
-Following Jeff's advice, we visit of the city's basilic, Basilica of Our Lady of Copacabana. 
-https://en.wikipedia.org/wiki/Virgen_de_Copacabana
+Following Jeff's advice, we visit of the city's basilica, Basilica of Our Lady of Copacabana. It is well-know for housing the statue of the *Virgen de Copacabana*, patron saint of Bolivia. 
 
-Hotel Rosario, really nice rooms and amazing view on the garden and the lake.
+Lake Titicaca and some of its islands hold a particular importance in the Inca mythology from the Andes region of South America. The local indigenous people believed in a creator divinity called Viracocha, who traveled to lake Titicaca. On *Isla del Sol*, he created Sun god Inti; and Moon godess Mama Quilla was born on *Isla de la Luna*. Both islands are still seen as sacred by some of the locals.
+Viracocha also birthed *Pachamama* (Mother Earth), godess of fertility, often represented as a mountain.  
 
-Starts raining in the afternoon so we chill at the hotel and get a good night's sleep.
+Mid-16th century, after the colonisation of Bolivia, the Catholic started converting the natives to Christianity. In the following years, many symbols from the Inca mythology "blended" with the Christian symbols: the Virgin Mary blended with Pachamama, he dress taking the shape of a mountain. Sun behind her head and moon under her feet. 
 
 ### Day 11 (Jan. 8th): Isla del Sol
 
@@ -221,7 +221,7 @@ Ferry to **Isla del Sol**.
 
 Walk up the hill for 30min to reach the Posada del Inca Eco-Lodge. The Lodge sent some people to help us carry our bags from the beach. 
 
-4-hour hike from the South to the north of the island, then we pay for a private boat to take us back to the South, so we can make it back to the lodge just in time for dinner!## Day 11 (Jan. 8th): Isla del Sol  
+4-hour hike from the South to the north of the island, then we pay for a private boat to take us back to the South, so we can make it back to the lodge just in time for dinner! 
 
 After all this effort, we really enjoy our dinner, quinoa soup and trout with rice (trout is the local fish, freshly caught from lake Titicaca). 
 
