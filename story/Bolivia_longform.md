@@ -123,7 +123,7 @@ Before leaving, we make one last quick stop at the Cathedral which oversees the 
 
 Our next stop is Uyuni. It's a long drive (4 hours), but the scenery is amazing. When we get there, we thank our guide and leave him a generous tip: he's by far the best guide we've had so far.  
 
-## Salar & South Bolivia
+## Part 3 - El Salar & South Bolivia
 
 ### Day 7 (Jan. 4th): Uyuni & Salar
 
@@ -199,7 +199,7 @@ Despite our flight being delayed, we end up missing it by just a few minutes. Th
 Luckily for me and the rest of the group, Andrés spends a lot of energy sorting things out with our travel agency, who hadn't warned us about the race, and our hotel in La Paz. 
 We sleep in a hostel in Uyuni instead, after having booked our replacement flight to La Paz for 9:30AM the next day.
 
-## Lake Titicaca 
+## Part 4 - Lake Titicaca 
 
 ### Day 10 (Jan. 7th): Copacabana
 
@@ -213,35 +213,31 @@ Following Jeff's advice, we visit of the city's basilica, Basilica of Our Lady o
 Lake Titicaca and some of its islands hold a particular importance in the Inca mythology from the Andes region of South America. The local indigenous people believed in a creator divinity called Viracocha, who traveled to lake Titicaca. On *Isla del Sol*, he created Sun god Inti; and Moon godess Mama Quilla was born on *Isla de la Luna*. Both islands are still seen as sacred by some of the locals.
 Viracocha also birthed *Pachamama* (Mother Earth), godess of fertility, often represented as a mountain.  
 
-Mid-16th century, after the colonisation of Bolivia, the Catholic started converting the natives to Christianity. In the following years, many symbols from the Inca mythology "blended" with the Christian symbols: the Virgin Mary blended with Pachamama, he dress taking the shape of a mountain. Sun behind her head and moon under her feet. 
+Mid-16th century, after the colonisation of Bolivia, the Catholic started converting the natives to Christianity. In the following years, many symbols from the Inca mythology "blended" with the Christian symbols: the Virgin Mary merged with Pachamama, her dress taking the shape of a mountain. The Sun and Moon deities also appear in a lot of paintings of Virgin Mary, sometimes as characters in the scene depicted, other times, simply under the form of the Sun shining behind Mary's head and the Moon under her feet. 
+This is true of  the *Virgen de Copacabana*, which wears a wide, mountain-shaped dress, has a sun-decorated mirror behind her heard, and a moon under her feet. Another great example of this is the famous painting *Virgen de Cerro Rico*, which we saw back in Potosi.
 
 ### Day 11 (Jan. 8th): Isla del Sol
 
-Ferry to **Isla del Sol**.
+This monring, we take the ferry to **Isla del Sol**.
+Instead of the donkeys that were supposed to help carry our luggage on arrival, we find a group of locals, including a few small women, who don't look like they will be able to help us much. Look are deceiving though, and we realise quickly that, even burdened with our bags, they are climbing up the hill much faster than us...  It takes us more than 30min to reach the Posada del Inca Eco-Lodge where we will staying tonight. 
 
-Walk up the hill for 30min to reach the Posada del Inca Eco-Lodge. The Lodge sent some people to help us carry our bags from the beach. 
+We spend our day hiking all the way across the island. We have missed the last ferry back to the South end, so we end up hiring a private boat to take us back. We make it back to the lodge just in time for dinner (quinoa soup and freshly caught trout with rice), where we celebrate our friend Helene's birthday. 
+The best gift of all isn't one we bought her: for the first time in days, we don't have to be up early tomorrow! 
 
-4-hour hike from the South to the north of the island, then we pay for a private boat to take us back to the South, so we can make it back to the lodge just in time for dinner! 
-
-After all this effort, we really enjoy our dinner, quinoa soup and trout with rice (trout is the local fish, freshly caught from lake Titicaca). 
-
-For the first time in days, we don't have to be up early tomorrow: I sleep like a stone. 
-
-## Chilling in La Paz
+## Part 5 - Chilling in La Paz
 
 ### Day 12 (Jan. 9th): Back to La Paz
 
-We travel back to La Paz, first by taking the ferry back to Copacabana, then in Julio's van. That's the end of the adventurous part of our trip. 
+Our trusty van driver, Julio, takes us back to La Paz. It's the end of the adventurous part of the trip, and we are glad to check back in our fancy Casa Grande hotel for our last few days in Bolivia.
 
-We're back at our fancy Casa Grande hotel for our last few days in Bolivia.
-
-Drinks at the rooftop bar of the hotel, with Dani, Maya, Bernie and some friends & cousins!
-
-Cocktail? 
+We have a chilled evening at the rooftop bar of the hotel, where Andres' siblings Dani, Maya and Bernie join us with some friends & cousins!
+This is where I discover Singani, the national spirit from Bolivia. The liquor, distlled from grapes and similar to Pisco, is said to get it's unique taste from the elevation. If you're visiting La Paz, you've got to try a Singani Sour!
 
 ### Day 13 (Jan. 10th): Souvenir shopping & a fine restaurant experience
 
-Visit of the Cathedral 
+With our trip coming to an end, we try to make the most out of La Paz. 
+
+We visit the *Basílica de San Francisco*
 
 Mercado de las brujas
 
