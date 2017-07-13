@@ -228,25 +228,27 @@ The best gift of all isn't one we bought her: for the first time in days, we don
 
 ### Day 12 (Jan. 9th): Back to La Paz
 
-Our trusty van driver, Julio, takes us back to La Paz. It's the end of the adventurous part of the trip, and we are glad to check back in our fancy Casa Grande hotel for our last few days in Bolivia.
+Julio, the van driver who first drove us from the airport to La Paz when we landed in Bolivia almost 2 weeks ago, is back! He drives us back to La Paz. It is the end of the "adventurous" part of the trip, and we are glad to check back in to Casa Grande hotel for our last few days in Bolivia.
 
-We have a chilled evening at the rooftop bar of the hotel, where Andres' siblings Dani, Maya and Bernie join us with some friends & cousins!
-This is where I discover Singani, the national spirit from Bolivia. The liquor, distlled from grapes and similar to Pisco, is said to get it's unique taste from the elevation. If you're visiting La Paz, you've got to try a Singani Sour!
+We have a chilled evening at the hotel's rooftop bar, where Andres' siblings Dani, Maya and Bernie join us with some friends & cousins.
+This is where I discover Singani, the national spirit from Bolivia. The liquor, distlled from grapes and similar to Pisco, is said to get it's unique taste from the elevation. If you're visiting La Paz, you've got to try a *Singani Sour*!
 
 ### Day 13 (Jan. 10th): Souvenir shopping & a fine restaurant experience
 
-With our trip coming to an end, we try to make the most out of La Paz. 
+We try to make the most out of our last few days in La Paz: 
+we visit the *Basílica de San Francisco*, buy a few souvenirs at the Mercado de las brujas (*the witches' market*), and we check out *Plaza Murillo*, where Evo Morales's controversial (?) palace is still mid-construction. 
 
-We visit the *Basílica de San Francisco*
+In the evening, we have dinner at a restaurant called Gustu. We call ahead to let the staff know we'll try the tasting menu, which consists of 6 "snacks", followed by 7 tasting courses, each served with a matching drink. 
 
-Mercado de las brujas
+[Gustu is ...]
 
-Plaza Murillo (palacio de morales)
+We can't believe our luck when we realise our table is in the kitchen. It's there that, talking about our favourites parts of the trip, savouring the great food that the chefs are cooking around us, I really feel that our trip is coming to an end. 
 
-Cruz Jaen
+Over the course of the meal, I have some of the best food I've had in my life, and discover a few new things (alligator ceviche, for example.) The evening ends with a tour of the restaurant and kitchens. By the time we finish our discussion with our lovely waiter, all the other customers have left the restaurant. 
 
-Gustu restaurant: tasting menu, sat in the kitchen. Each plate comes with a different drink (all alcoholic: wine, beer, cocktail).
+This is, to this date, the best gastronomical experience I've had in my life, for a very reasonable price. If you ever visit La Paz, I would recommend you go and experience it yourself!
 
+<---
 - snack 1: grape with cacao puree and cacao + root with peanut
 - llajua cocktail
 - snack 2: dried alligator and burnt pickled spring onion
@@ -262,18 +264,18 @@ Gustu restaurant: tasting menu, sat in the kitchen. Each plate comes with a diff
 - Taster 6: creme anglaise, sorbet de petit lait, jaune d'oeuf grille, meuringue, sucre de citron noir
 - taster 7: macaron au café et fruit de la passion sèche
 (See menu).
+--->
 
-The evening ends with a tour of the restaurant and kitchens. 
 
 ### Day 14 (Jan. 11th): Last day in La Paz
 
-Bit of slow day: we wake up late, have breakfast and chill at the pool / jacuzzi. Andres negotiated for us a late check-out for free, which is nice. 
+After enjoying a late breakfast and a visit to the hotel's jacuzzi, we check out and do a bit of shopping. South America is known for its baby Alpaga fabric, one of the softest fabrics in the world. 
 
-We do a bit of shopping (fine Alpaga clothes), and buy a some chocolate and flowers for Andres' family who are welcoming Damien, Justine and I for dinner and our last night in La Paz.
+We buy some clothes, and some chocolate and flowers for Andres' family who are invite us for dinner and to stay over for our last night in La Paz.
 
 But before that, we take the Mi Teleferico all the way up to El Alto, where we can see all of La Paz. Funnily, the best view of the city from the top of the téléphérique is from Bolivia's own version of KFC called Pollos Copacabana. 
 
-Having enjoyed a great view of the city from high up in the téléphérique, we head back to Andres' grand-parents' house where we are fed a really good Bolivian dish, Pique (A Lo) Macho. It was so nice of them to welcome us and share their home with us! 
+Having enjoyed a great view of the city from high up in the téléphérique, we head back to Andres' grand-parents' house where we are fed a really good Bolivian dish, *Pique (A Lo) Macho*. It was so nice of them to welcome us and share their home with us! 
 
 We give our thanks, say our goodbyes, pack our bags and set our alarms for 3:45AM.
 
